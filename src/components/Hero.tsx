@@ -65,7 +65,7 @@ const Hero: React.FC = () => {
               <ArrowRight className="w-6 h-6 transition-transform" />
             </button>
             <a
-              href="https://drive.google.com/file/d/1_6KQV_2BzKLK1wJp2cI1lTF80gIGccVK/view?usp=sharing"
+              href="https://drive.google.com/file/d/1eBOuMWv8Vlkak_ugpy0P4DPftC-xaTw1/view?usp=sharing"
               target="_blank"
               rel="noopener noreferrer"
               className="group px-10 py-4 bg-transparent border border-[#00d4ff] text-[#00d4ff] font-semibold rounded-lg shadow-[0_8px_32px_rgba(0,212,255,0.1)] hover:shadow-[0_12px_40px_rgba(0,212,255,0.3)] transform hover:scale-105 transition-all duration-300 flex items-center space-x-3 text-lg hover:bg-[#00d4ff] hover:text-white hover:drop-shadow-[0_0_20px_rgba(0,212,255,0.5)]"
