@@ -44,13 +44,10 @@ const Navigation: React.FC = () => {
           <div className="flex-shrink-0">
             <button
               onClick={() => scrollToSection('#home')}
-              className="p-3 rounded-2xl bg-[#18181b] border-2 border-[#00d4ff] shadow-[0_0_20px_#00d4ff55] hover:shadow-[0_0_40px_#00d4ff99] transition-all duration-300 drop-shadow-[0_0_10px_#00d4ff] hover:scale-105 flex items-center justify-center"
+              className="text-3xl font-extrabold px-6 py-2 rounded-2xl bg-[#18181b] border-2 border-[#00d4ff] text-[#00d4ff] shadow-[0_0_20px_#00d4ff55] hover:shadow-[0_0_40px_#00d4ff99] transition-all duration-300 drop-shadow-[0_0_10px_#00d4ff] hover:scale-105"
+              style={{ letterSpacing: '0.05em' }}
             >
-              <img 
-                src="https://static.thenounproject.com/png/5566533-200.png" 
-                alt="Home" 
-                className="w-8 h-8 invert"
-              />
+              RK
             </button>
           </div>
 

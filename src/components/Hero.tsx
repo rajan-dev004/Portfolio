@@ -34,9 +34,9 @@ const Hero: React.FC = () => {
             </h1>
             {/* Removed the non-glowing subtitle to avoid duplication and overlap */}
             <p className="text-xl md:text-2xl max-w-4xl mx-auto leading-relaxed text-[#b0b0b0] font-medium mt-4 mb-2">
-              A passionate{' '}
-              <span className="text-[#00d4ff] font-bold drop-shadow-[0_0_10px_rgba(0,212,255,0.5)]">AI Engineer & Python Backend Developer</span>{' '}
-              crafting data-driven solutions with ML, CV, GenAI, and AgenticAI.
+              A future-ready{' '}
+              <span className="text-[#00d4ff] font-bold drop-shadow-[0_0_10px_rgba(0,212,255,0.5)]">AI & ML enthusiast</span>{' '}
+              crafting data-driven solutions with ML, GenAI, and DevOps.
             </p>
           </div>
 
@@ -50,7 +50,7 @@ const Hero: React.FC = () => {
                 filter: 'drop-shadow(0 0 20px #00d4ff) drop-shadow(0 0 40px #00d4ff)'
               }}
             >
-              ML Engineer & Backend Developer
+              Aspiring ML Engineer
             </span>
           </div>
 
@@ -108,7 +108,7 @@ const Hero: React.FC = () => {
             <div className="inline-flex items-center space-x-3 px-8 py-4 bg-[#1a1a1a] rounded-full border border-[#333333] text-[#b0b0b0] shadow-[0_8px_32px_rgba(0,212,255,0.1)] mb-12">
               <div className="w-3 h-3 bg-[#00ff88] rounded-full animate-pulse drop-shadow-[0_0_10px_rgba(0,255,136,0.5)]"></div>
               <span className="text-base font-medium">
-                Currently doing an internship in <span className="font-bold" style={{color: '#d9d9d9ff'}}>Python Backend Development</span> at <span className="font-bold" style={{color: '#d9d9d9ff'}}>i4 Consulting Pvt Ltd</span> 
+                Currently doing Internship in Multi-Technology Track via <span className="font-bold" style={{color: '#ff0000'}}>LinuxWorld</span> (Learn & Build)
               </span>
             </div>
           </div>

@@ -61,13 +61,13 @@ const About: React.FC = () => {
                   </p>
                   <div className="flex flex-wrap items-center gap-3 mt-4">
                     <span className="px-4 py-2 bg-[#ff0080]/10 text-[#ff0080] rounded-full text-sm font-bold border border-[#ff0080]/20">
-                      CGPA: 8.8
+                      CGPA: 9.1
                     </span>
                     <span className="px-4 py-2 bg-[#00d4ff]/10 text-[#00d4ff] rounded-full text-sm font-bold border border-[#00d4ff]/20">
                       3rd Year
                     </span>
                     <span className="px-4 py-2 bg-[#00ff88]/10 text-[#00ff88] rounded-full text-sm font-bold border border-[#00ff88]/20">
-                      Python Backend Devloper Intern
+                      Linux World Intern
                     </span>
                   </div>
                 </div>
